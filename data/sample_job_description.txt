@@ -1,0 +1,17 @@
+Job Title: Senior AI Engineer
+
+Job Description
+We are looking for a skilled AI Engineer to join our team. The ideal candidate should have strong experience in Natural Language Processing (NLP) and Machine Learning.
+
+Responsibilities
+- Design and implement ML models for text analysis.
+- Work with large datasets using Pandas and NumPy.
+- Deploy models using Docker and AWS.
+
+Requirements
+- Proficiency in Python and SQL.
+- Strong knowledge of Scikit-Learn, NLTK, and spaCy.
+- Experience with Deep Learning frameworks like TensorFlow or PyTorch.
+- Familiarity with cloud platforms (AWS/GCP/Azure).
+- Good understanding of Git and version control.
+- Experience with Streamlit is a plus.

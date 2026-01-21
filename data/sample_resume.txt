@@ -1,0 +1,21 @@
+John Doe
+Senior Software Engineer
+
+Summary
+Experienced software developer with a strong background in Python and Machine Learning. Passionate about building scalable AI applications.
+
+Skills
+Python, Java, C++, SQL
+Machine Learning, Deep Learning, NLP, Scikit-Learn, TensorFlow, PyTorch
+Data Analysis, Pandas, NumPy
+Web Development, Flask, Django, HTML, CSS
+Git, Docker, AWS
+
+Experience
+Senior Developer at Tech Corp
+- Developed NLP models for text classification.
+- Optimized database queries improving performance by 30%.
+- Led a team of 5 developers.
+
+Education
+B.Sc. in Computer Science, University of Technology
