@@ -53,6 +53,7 @@ We use **Cosine Similarity** to measure the match.
 - **Range:** 0 (No match) to 1 (Perfect match).
 - It is preferred over Euclidean distance for text because it is independent of document length (a long resume shouldn't necessarily be "farther" from a short JD).
 
+<!--
 ## 🚀 How to Run the Project
 
 ### Prerequisites
@@ -84,7 +85,7 @@ python src/main.py
 ```bash
 streamlit run src/app.py
 ```
-
+-->
 ## 📊 Sample Output
 **Resume Match Score:** 78%
 
@@ -100,15 +101,5 @@ streamlit run src/app.py
 **Recommendation:**
 *Good match, but you are missing some key skills like Docker, AWS. Consider learning these.*
 
-## ⚠️ Limitations
-- The current skill database is manual and may not cover every niche technology.
-- Contextual understanding (e.g., distinguishing "Java" coffee vs. language) relies on the specific domain of the text.
-- TF-IDF ignores word order (semantic meaning is partially lost compared to BERT/Embeddings).
-
-## 🔮 Future Enhancements
-- **BERT/Transformers:** Use SBERT for better semantic similarity.
-- **Named Entity Recognition (NER):** Train a custom NER model to extract skills automatically without a list.
-- **Cloud Integration:** Deploy on AWS/Azure for public access.
-
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Shishupal*
